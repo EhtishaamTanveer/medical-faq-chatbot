@@ -87,33 +87,7 @@ This project is for educational and research purposes only. It does not provide 
 ### ⭐ Why I Built This
 To explore the integration of multimodal AI for medical education, and to demonstrate how GPT-4o can be used responsibly for structured medical information delivery.
 
-### 📄 License
-```bash
 
----
-
-## ✅ 2. `.gitignore`
-
-```gitignore
-# Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.env
-.venv/
-venv/
-
-# IDE
-.vscode/
-.idea/
-
-# OS
-.DS_Store
-
-# Gradio uploads/cache
-gradio_cached_examples/
-```
 
 
 
