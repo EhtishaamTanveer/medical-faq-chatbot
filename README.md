@@ -17,9 +17,9 @@ A GPT-4o-powered medical chatbot that answers questions about symptoms, medicati
 
 ## 📸 Screenshots
 
-| Chat Interface | Uploading X-ray |
+| Welcome Page | Chat Interface |
 |----------------|-----------------|
-| ![Chat UI](static/img/screenshot1.png) | ![X-ray Upload](static/img/screenshot2.png) |
+| ![Chat UI](static/img/intro.png) | ![X-ray Upload](static/img/question-answering.png) |
 
 > *(Add screenshots to `static/img/` folder and rename appropriately.)*
 
