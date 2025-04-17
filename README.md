@@ -68,6 +68,7 @@ Visit: http://localhost:8000
 
 ### 📁 .env Example
 
+```
 OPENAI_API_KEY=your_openai_key_here
 MODEL_NAME=gpt-4o
 MAX_TOKENS=800
@@ -75,6 +76,7 @@ TEMPERATURE=0.3
 DEBUG=True
 HOST=0.0.0.0
 PORT=8000
+```
 
 ### 🧪 Run Tests
 ```bash
